@@ -1,21 +1,19 @@
-# CrunchDAO ADIA Lab Notebooks
+# ADIA Lab Market Prediction Competition Notebooks
 
-Welcome to the CrunchDAO ADIA Lab Notebooks repository! This repository serves as a collaborative space to share and exchange ideas related to the ADIA Lab market prediction competition. 
+Welcome to the repository! This repository serves as a collaborative space to share and exchange ideas related to the ADIA Lab Market Prediction Competition. 
 Whether you're a seasoned data scientist or a curious enthusiast, you'll find a wealth of insightful notebooks and code to help you tackle this exciting challenge.
 
 
 ## About the ADIA Lab Market Prediction Competition
 
 The ADIA Lab Market Prediction Competition is an engaging and competitive event that challenges participants to develop robust market prediction models. 
-The Abu Dhabi Investment Authority (ADIA) Lab in partnership with CrunchDAO host this competition to foster innovation in the field of market prediction,
+The Abu Dhabi Investment Authority (ADIA) Lab in partnership with CrunchDAO host this competition to foster innovation in the field of financial machine learning and market prediction,
 attracting participants from diverse backgrounds with a passion for data science, machine learning, and finance.
-
 
 ## Competition Links
 
-- [CrunchDAO Tournament](https://www.crunchdao.com)
+- [CrunchDAO Website](https://www.crunchdao.com)
 - [ADIA Lab Market Prediction Competition](https://www.crunchdao.com/live/adialab)
-
 
 ## How to Use the Notebooks
 
@@ -39,8 +37,3 @@ The notebooks may include exploratory data analysis (EDA), feature engineering t
 
 Participants are encouraged to contribute their own notebooks to this repository. Whether you have a groundbreaking strategy or a clever data preprocessing technique, 
 sharing your findings and code can be immensely valuable to the community. To contribute, simply fork this repository, add your notebook, and create a pull request.
-
-
-## License
-
-[MIT](https://choosealicense.com/licenses/mit/)
