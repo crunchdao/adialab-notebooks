@@ -7,7 +7,7 @@ Whether you're a seasoned data scientist or a curious enthusiast, you'll find a 
 ## About the ADIA Lab Market Prediction Competition
 
 The ADIA Lab Market Prediction Competition is an engaging and competitive event that challenges participants to develop robust market prediction models. 
-The Abu Dhabi Investment Authority Lab (ADIA Lab) in partnership with CrunchDAO host this competition to foster innovation in the field of financial machine learning and market prediction,
+[The Abu Dhabi Investment Authority Lab](https://www.adialab.ae/) (ADIA Lab, an independent research center supported by ADIA) in partnership with CrunchDAO host this competition to foster innovation in the field of financial machine learning and market prediction,
 attracting participants from diverse backgrounds with a passion for data science, machine learning, and finance.
 
 ## Competition Links
